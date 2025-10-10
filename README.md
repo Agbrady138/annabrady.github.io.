@@ -1,2 +1,2 @@
 annabrady.github.io.
-nnabrady.github.io/claude-home/
+annabrady.github.io/claude-home/
